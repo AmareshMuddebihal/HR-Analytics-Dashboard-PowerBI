@@ -52,11 +52,11 @@ To study employee attrition and workforce trends across **departments, age group
 ## 📷 Dashboard Preview
 *(Insert screenshots here from `images/` folder)*  
 
-![Dashboard Overview](images/dashboard_overview.png)
+
 
 ---
 
 ## 🚀 How to Use
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/HR-Analytics-Dashboard-PowerBI.git
+   https://github.com/AmareshMuddebihal/HR-Analytics-Dashboard-PowerBI
